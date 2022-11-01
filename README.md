@@ -1,3 +1,27 @@
+### The Challenges
+Read the entire assignment before you start.
+
+The test will consist of the command below and we are going to set you another one. You probably won't get the assignment below, this is okay. We especially want to see how far you get and how your reaction skills are. If anything is unclear, just ask! You have two hours to get as far as you can. Success with assignment.
+
+Create a React application that contains a list view of products. These products have a name, description and a price. Example: Name: “Tomato soup”, Description: “Delicious homemade tomato soup with local ingredients.”, Price: 12.95 euros
+- You must be able to create and add products to this list.
+- You must be able to delete products.
+- You must be able to change products.
+
+Also create a view that contains a list view of product groups. These product groups have a name and a description. Example: Name: “Soups”, Description: “Homemade soups”
+- You must be able to create and add product groups to this list.
+- You must be able to delete product groups.
+- You must be able to change product groups.
+- You must be able to change the product groups.
+- You must be able to add products to product groups.
+-*** A product may be added to multiple product groups, but
+only once per product group.
+
+- You must be able to remove products from a product group.
+- You must be able to change the products under a product group.
+
+You are free to use packages. Focus mainly on the functional and not on design/css.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
