@@ -1,0 +1,65 @@
+[
+  {
+    "productId": 1,
+    "name": "Tomato Soup",
+    "description": "Homemade Tomato Soup is a classic soup recipe made with fresh ripe tomatoes and fresh herbs blended with a hint of cream.",
+    "price": 6.99
+   
+  },
+  {
+    "productId": 2,
+    "name": "Fish Soup",
+    "description": "This Sciilian fish stew/soup hybrid is the best fish soup recipe in the world. Packed with halibut, salmon and prawns, it's also dairy-free and gluten-free.",
+    "price": 9.99
+    
+  },
+  {
+    "productId": 3,
+    "name": "Coca cola",
+    "description": "We are here to refresh the world and make a difference. Learn more about the Coca-Cola Company, our brands, and how we strive to do business the right way.",
+    "price": 2.99
+   
+  },
+  {
+    "productId": 4,
+    "name": "Heineken Beer",
+    "description": "Heineken is a pale lager beer with 5% alcohol by volume produced by the Dutch brewing company",
+    "price": 3.99
+  
+  },
+  {
+    "productId": 5,
+    "name": "Pasta Napolitana",
+    "description": "This is the ultimate meat lovers sauce and is my copycat version of The Cheesecake Factory's pasta. Rich and hearty, with tremendous flavors, this pasta Napolitana will disappear quickly.",
+    "price": 14.99
+   
+  },
+  {
+    "productId": 6,
+    "name": "Black Bean and Cheese Enchiladas",
+    "description": "Picante sauce gives lots of zip to the tasty filling in these meatless black bean and cheese enchiladas. Each generous serving is packed with fresh-tasting ingredients—and fiber, too. — Taste of Home Test Kitchen",
+    "price": 12.99
+   
+  },
+  {
+    "productId": 7,
+    "name": "Classic Beef Stew",
+    "description": "This easy beef stew recipe is my favorite. The rich beef gravy helps the hearty flavor of the potatoes and carrots to come through. It's the perfect homemade dish for a blustery winter day. —Alberta McKay, Bartlesville, Oklahoma",
+    "price": 16.99
+   
+  },
+  {
+    "productId": 8,
+    "name": "Chocolate mousse with cherry ripe truffles",
+    "description": "To make the mousse, place eggs in the bowl of a stand mixer with the whisk attachment. Set aside.",
+    "price": 8.99
+   
+  },
+  {
+    "productId": 9,
+    "name": "Coconut yoghurt cake",
+    "description": "When it comes to storing perishables like dairy, the freezer is your best friends. Milk and yoghurt can be stored in ice cube trays and popped out to use in smoothies.",
+    "price": 14.99
+   
+  }
+]

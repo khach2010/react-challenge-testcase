@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Drinks",
+    "description": "all Drinks here",
+    "products": [
+
+    ]
+  },
+  { "id": 2,
+    "name": "Drinks",
+    "description": "all Drinks here",
+    "products": [
+
+    ]
+  },
+  { "id": 3,
+    "name": "Main Dishes",
+    "description": "all Main Dishes here",
+    "products": [
+
+    ]
+  },
+  { "id": 4,
+    "name": "Desserts",
+    "description": "all Desserts here",
+    "products": [
+
+    ]
+  }
+]
